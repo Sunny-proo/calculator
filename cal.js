@@ -24,6 +24,9 @@ function btnpress(){
         }
         console.log(ans);
     }
+        else if(inp=="X"){
+            console.log("hi")
+        }
     else{
        ans= sc.append(inp);
     }
