@@ -1,0 +1,17 @@
+
+#page1{
+  height:100vh;
+min-width:100vw;
+  background-color: grey;
+  position:relative
+}
+img{
+position:absolute;
+height: 50vh;
+min-width:100%;
+object-fit:cover;
+}
+#car{
+  height:150px;
+  top:180px;
+}
